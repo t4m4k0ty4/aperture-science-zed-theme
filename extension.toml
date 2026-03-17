@@ -1,0 +1,10 @@
+[extension]
+id = "aperture-science"
+name = "Aperture Science"
+version = "0.0.1"
+schema_version = 1
+description = "A dark theme inspired by the Aperture Science test chambers from Portal 2"
+authors = ["Michael Kot t4m4k0ty4@gmail.com"]
+repository = "https://github.com/твой-юзернейм/aperture-science-zed"
+
+[themes]
